@@ -1,0 +1,19 @@
+.temp{
+  color: white;
+  font-family: "Coda", sans-serif;
+  text-align: center;
+  font-size: 20px;
+  background: none;
+  outline: none;
+  border: 0;
+  background-color: grey;
+  border-style: solid;
+  border-color: black;
+}
+
+.bg-img{
+  background-image: image(http://www.sgsweather.com/Images/Glossary1/Fractus%20clouds.jpg);
+}
+
+#navbar{
+  display: inline;}
